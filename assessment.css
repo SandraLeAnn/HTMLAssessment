@@ -1,0 +1,23 @@
+.subjectHeader{
+  color: blue;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+ul {
+  list-style-type: square;
+}
+  A:hover {
+    COLOR: black; TEXT-DECORATION: none; font-weight: normal
+  }
+blockquote {
+    color: lightgreen;
+    background: #191970;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+.teamRoster {
+  fist-child: https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg;
+}
